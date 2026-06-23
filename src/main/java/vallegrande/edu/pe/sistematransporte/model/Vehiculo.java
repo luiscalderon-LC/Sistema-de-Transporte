@@ -1,6 +1,7 @@
 package vallegrande.edu.pe.sistematransporte.model;
 
 public class Vehiculo {
+    // Corrección de validaciones del modelo Vehiculo
     private String tipo;
     private String marca;
     private String placa;
