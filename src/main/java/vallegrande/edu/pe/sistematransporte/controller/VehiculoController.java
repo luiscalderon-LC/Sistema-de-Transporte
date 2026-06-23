@@ -8,6 +8,7 @@ import javax.swing.table.DefaultTableModel;
 import java.util.ArrayList;
 
 public class VehiculoController {
+    // Mejora realizada por Luis para optimizar el control de vehículos
     private Vista vista;
     private ArrayList<Vehiculo> listaVehiculos;
     private int filaSeleccionada = -1;
